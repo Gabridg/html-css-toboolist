@@ -81,7 +81,7 @@ h1{display: inline;
 /* Main */
 
 .new-task{
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 h2{
@@ -90,4 +90,14 @@ h2{
 
 .triangle-down{
     font-size: 20px;
+}
+
+li{
+    margin: 10px 0px;
+    list-style-type: none;
+}
+
+.true{
+    border: 2px solid lime;
+    border-radius: 50%;
 }
