@@ -98,6 +98,14 @@ li{
 }
 
 .true{
-    border: 2px solid lime;
+    border: 2px solid green;
     border-radius: 50%;
+    color: green;
 }
+.post-it{
+    font-size: 8px;
+    width: 20px;
+    height: 15px;
+    padding: 3px;
+    background-color: dodgerblue;
+    border-radius: 5px;
