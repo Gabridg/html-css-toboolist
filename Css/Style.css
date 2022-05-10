@@ -93,6 +93,8 @@ h2{
 li{
     margin: 10px 0px;
     list-style-type: none;
+    font-weight: 600;
+    color: rgb(43, 42, 42);
 }
 
 .true{
@@ -100,6 +102,13 @@ li{
     border-radius: 50%;
     color: green;
 }
+
+.false{
+    border: 2px solid red;
+    border-radius: 50%;
+    color: red;
+}
+
 .post-it{
     font-size: 8px;
     width: 20px;
@@ -111,4 +120,24 @@ li{
 
 .editorial{
     background-color: dodgerblue;
+}
+
+.Q1-goals{
+    background-color: blueviolet;
+}
+
+.Recruiting{
+    background-color: rgb(78, 141, 78);
+}
+
+.Mobile{
+    background-color: orange;
+}
+
+.Website{
+    background-color: pink;
+}
+
+.Sales{
+    background-color: rgb(180, 180, 90);
 }
