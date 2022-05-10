@@ -52,7 +52,6 @@ h1{display: inline;
 
 .adder{
     display: inline-block;
-    box-sizing: border-box;
     background-color: white;
     height: 60px;
     margin-left: 50px;
@@ -73,9 +72,8 @@ h1{display: inline;
 #task,
 #section{
     margin-top: 10px;
-    width: 60px;
     height: 40px;
-    vertical-align: middle;
+    padding: 0 25px;
 }
 
 /* Main */
